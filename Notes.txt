@@ -1,0 +1,4 @@
+
+Test URL : 
+
+http://localhost:8080/SpringMvcFormExample/register
